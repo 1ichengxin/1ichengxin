@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "My Homepage"
 title_separator          : "-"
-name                     :&name "Chengxin Li"
+name                     : &name "Chengxin Li"
 description              : &description "Go and go again, come when you come"
-url                      : https://1ichengxin.github.io/1ichengxin/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : https://1ichengxin.github.io/1ichengxin 
+baseurl                  : "" 
+repository               : "Chengxin Li"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Xiangtan University"
   uri              : # URL
   email            : "l12chengxin@gmail.com" 
 
