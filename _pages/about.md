@@ -16,8 +16,6 @@ Main journal articles
 ======
 **2024**  
 * ***Paper accepted by IEEE/ACM Transactions on Networking:*** Robust Data Inference and Cost-Effective Cell Selection for Sparse Mobile Crowdsensing, independent work (CCF A)
-
-**2024**  
 * ***Paper accepted by IEEE Transactions on Information Forensics and Security:*** Enhancing Sparse Mobile CrowdSensing with Manifold Optimization and Differential Privacy, independent work (CCF A)
 
 
@@ -25,9 +23,7 @@ Collaborative journal articles
 ======
 **2024** 
 * ***Paper submitted to IEEE Transactions on Mobile Computing:*** User-Driven Privacy-Preserving Data Streams Release for Multi-Task Assignment in Mobile Crowdsensing (CCF A)
-  
-**2024** 
 * ***Paper submitted to IEEE Transactions on Mobile Computing:*** Pattern-sensitive Local Differential Privacy for Finite-Range Time-series Data in Mobile Crowdsensing (CCF A)
 
 **2023** 
-***Paper accepted by Ad Hoc Networks:*** A novel coverage-aware task allocation scheme in Cooperative Mobile Crowd Sensing (CCF C)
+* ***Paper accepted by Ad Hoc Networks:*** A novel coverage-aware task allocation scheme in Cooperative Mobile Crowd Sensing (CCF C)
