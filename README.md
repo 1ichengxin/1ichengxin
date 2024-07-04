@@ -8,4 +8,4 @@ My research interests include privacy protection of Saprse MCS, Machine Learning
 
 ## My links
 - **Pesonal Homepage**: [About Me](academicpages/academicpages.github.io)
-- **Google Scholar**: [Chengxin Li]([[https://scholar.google.com/citations?user=Vamhs-sAAAAJ&hl=en&oi=sra](https://scholar.google.com/citations?user=qRE4l5EAAAAJ&hl=zh-CN)])
+- **Google Scholar**: [Chengxin Li]([(https://scholar.google.com/citations?user=qRE4l5EAAAAJ&hl=zh-CN)])
