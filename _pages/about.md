@@ -17,6 +17,7 @@ Main journal articles
 **2024**  
 * ***Paper accepted by IEEE/ACM Transactions on Networking:*** Robust Data Inference and Cost-Effective Cell Selection for Sparse Mobile Crowdsensing, independent work (CCF A)
 * ***Paper accepted by IEEE Transactions on Information Forensics and Security:*** Enhancing Sparse Mobile CrowdSensing with Manifold Optimization and Differential Privacy, independent work (CCF A)
+* ***Pre-submission：*** Defending Data Inference and Cell Selection Against Poisoning Attacks in Sparse CrowdSensing
 
 
 Collaborative journal articles
