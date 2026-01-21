@@ -9,14 +9,14 @@ redirect_from:
 
 
 
-Chengxin Li is currently pursuing a Ph.D. degree with the School of Mathematics and Computational Science, Xiangtan University, China. His research of interests are in the areas of mobile computing, information security, and
-Internet of Things. advised by Prof. Zhetao Li.
+Chengxin Li received the Ph.D. degree from the School of Mathematics and Computational Science, Xiangtan University. He was a visiting Ph.D. student at Kyushu University, Japan. He is currently with the School of Computer Science, Changsha University of Science and Technology. His research interests include mobile crowdsensing, data security, and the Internet of Things. advised by Prof. Zhetao Li.
 
 Main journal articles
 ======
 **2025** 
 * ***Paper accepted by IEEE Transactions on Mobile Computing:*** Privacy-Preserving Yet Vulnerable: Data Poisoning Attacks Against Differential Privacy Sparse Mobile Crowdsensing System, independent work (CCF A)
 * ***Pre-submission：*** Defending Data Inference and Cell Selection Against Poisoning Attacks in Sparse CrowdSensing
+* ***Pre-submission：*** ProgDP: Mitigating the Impact of Differential Privacy on Deep Learning via Progressive Training
 * ***Paper major revision by IEEE Transactions on Mobile Computing:*** Fairness-Aware Online Slicing and Adaptive Pricing in Multi-Tenant Computing Networks, Corresponding author (CCF A)
   
 **2024**  
